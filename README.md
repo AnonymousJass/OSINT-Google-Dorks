@@ -84,9 +84,7 @@ Social Media
 Jules Darmanin shared a tip on how to find out whether a certain tweet was shared on other media, for instance a news site. For that, search for the specific text and tell Google to ignore anything that was posted within twitter.com by adding the minus sign to that part of the dork:
 
 * "text of a tweet" -site:https://twitter.com
-Almost the same method can be used to search messages and/or links for a specific username not coming from that username his/her account. For example this searches for links or information containing ‘@dutch_osintguy’ but not coming directly of the twitter user timeline Dutch_osintguy
-
-@dutch_osintguy -site:twitter.com/dutch_osintguy
+  
 Want to learn more about Google Dorking ?
 Using Google search operators as effective as possible is an art by itself. For OSINT the goal is (most of the time) to create your targeted haystack. But by using well chosen keywords and dorked together with the right search operators you will be able to create a haystack with as low a possible volume with an as high as possible probability.
 
